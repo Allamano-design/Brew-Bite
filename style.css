@@ -208,7 +208,9 @@ header .navbar{
     font-size: var(--font-size-l);
     font-weight: 500;
     transition: all 0.3s ease;
-    color: var(--secondary-color-dark);
+    background-color: rgb(255, 111, 0);
+    border-radius: 10px;
+    width: 20px;
    
 }
 
